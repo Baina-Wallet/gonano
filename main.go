@@ -1,6 +1,6 @@
 package main
 
-import "github.com/hectorchu/gonano/cmd"
+import "github.com/Baina-Wallet/gonano/cmd"
 
 func main() {
 	cmd.Execute()
