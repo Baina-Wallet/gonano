@@ -6,7 +6,7 @@ Gonano is primarily a command-line tool written in Go for creating and managing 
 Install
 -------
 
-    go get github.com/hectorchu/gonano
+    go get github.com/Baina-Wallet/gonano
 
 Command-line usage
 ------------------
